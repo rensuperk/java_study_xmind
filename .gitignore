@@ -1,1 +1,5 @@
 /.idea/
+/src/configuration/
+/src/p2/
+/src/workspace/
+/src/artifacts.xml
